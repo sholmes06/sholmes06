@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sholmes06
-- 👀 I’m interested in learning GitHUb
+- 👀 I’m interested in learning GitHub
 - 🌱 I’m currently learning a new project
 - 💞️ I’m looking to collaborate on team work
 - 📫 How to reach me ... iykyk
